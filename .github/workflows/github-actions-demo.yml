@@ -27,5 +27,5 @@ jobs:
     - uses: actions/download-artifact@v2
       with:
         name: my-artifact
-        path: src/Frontend/app.js
+        path: Frontend
       
